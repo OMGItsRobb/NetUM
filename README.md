@@ -2,6 +2,9 @@
 
 NetUM is a lightweight WinUI 3 desktop app for monitoring network usage on Windows. It shows live download and upload speed, tracks daily and monthly totals, keeps historical usage data, and can stay in the notification area when the main window is closed.
 
+<img width="338" height="581" alt="image" src="https://github.com/user-attachments/assets/f398d7e1-284a-49c3-8359-9bd497ad9714" />
+
+
 ## Features
 
 - Live download and upload speed display
@@ -10,6 +13,9 @@ NetUM is a lightweight WinUI 3 desktop app for monitoring network usage on Windo
 - Duplicate adapter filtering for common Windows lightweight filter drivers
 - Notification area icon with restore and exit actions
 - Local history persistence in `%APPDATA%\\NetUM`
+
+  <img width="1083" height="706" alt="image" src="https://github.com/user-attachments/assets/d90b072f-29f9-4609-b06d-b071cd425baa" />
+
 
 ## Requirements
 
