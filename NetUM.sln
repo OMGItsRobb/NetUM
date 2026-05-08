@@ -1,0 +1,24 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NetUM", "NetUM.csproj", "{94234E37-5406-47BC-FAB1-E4F758986CBC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{94234E37-5406-47BC-FAB1-E4F758986CBC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{94234E37-5406-47BC-FAB1-E4F758986CBC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{94234E37-5406-47BC-FAB1-E4F758986CBC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{94234E37-5406-47BC-FAB1-E4F758986CBC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {53646972-D3B4-43B4-9CC4-ED8BBC0CEA73}
+	EndGlobalSection
+EndGlobal

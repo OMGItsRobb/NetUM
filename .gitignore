@@ -1,0 +1,39 @@
+# Build output
+bin/
+obj/
+artifacts/
+publish/
+TestResults/
+
+# IDE and user-local files
+.vs/
+.vscode/
+.idea/
+*.suo
+*.user
+*.userosscache
+*.rsuser
+*.sln.docstates
+*.cache
+*.pdb
+
+# NuGet
+packages/
+*.nupkg
+*.snupkg
+
+# Windows / packaging output
+AppPackages/
+BundleArtifacts/
+Package.StoreAssociation.xml
+
+# Logs and temporary files
+*.log
+*.tmp
+*.temp
+*.bak
+*.orig
+
+# OS files
+Thumbs.db
+Desktop.ini
